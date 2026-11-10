@@ -36,7 +36,7 @@ for name, data in penguins.groupby("species"):
   )
 
 # Add the labels
-ax.set_xlabel("Flipeer Length (mm)")
+ax.set_xlabel("Flipper Length (mm)")
 ax.set_ylabel("Body Mass (g)")
 ax.set_title("Penguin Body Mass and Flipper Length")
 
