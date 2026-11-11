@@ -49,7 +49,7 @@ Flourish was different from the previous tools because I could make the visualiz
 
 ---
 # Tableau
-
+Tableau workbook: https://github.com/AmieHuynh2101/a2-DataVis-5ways/blob/main/tableau/tableau.twb
 <img width="962" height="529" alt="image" src="https://github.com/user-attachments/assets/5daaf4a2-13f9-48c6-9884-155747325585" />
 
 I also tried Tableau as an extra tool beyond the five required visualizations. Instead of writing code, I could drag the data columns into different areas to build the scatterplot. I used flipper length and body mass for the axes, species for the colors, and bill length for the circle sizes. Creating the basic chart was easy, but finding the settings for the axis ranges, colors, and opacity took more time. I think Tableau would be helpful for exploring large datasets and creating dashboards without having to write much code. 
