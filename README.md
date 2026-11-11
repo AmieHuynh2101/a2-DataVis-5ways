@@ -1,6 +1,6 @@
 Assignment 2 - Data Visualization, 5 Ways  
 ===
-Introduction
+# Introduction
 
 For this assignment, I used five different visualization tools to create scatterplots using the penguin dataset. I also explored one additional tool to gain more experience with different ways of creating visualizations
 
