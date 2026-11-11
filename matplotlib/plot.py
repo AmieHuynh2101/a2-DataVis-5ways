@@ -44,9 +44,23 @@ ax.set_title("Penguin Body Mass and Flipper Length")
 ax.set_xlim(165, 235)
 ax.set_ylim(2500, 6500)
 
-# Add grid and legend
+# Add grid and species legend
 ax.grid(True, alpha=0.2)
-ax.legend(title="Species")
+species_legend = ax.legend(title="Species", loc = "upper left")
+ax.add_artist(species_legend)
+
+# Add bill Length Legend
+bill_lengths = [35,45, 55]
+size_handles = [
+  ax.scatter([], [], s=length*2, color="gray", alpha=0.8)
+  for length in bill_lengths
+]
+ax.legend(
+  size_handles,
+  [f"{length} mm" for length in bill_lengths],
+  title="Bill Length",
+  loc="lower right"
+)
 
 # Save and display the plot
 plt.tight_layout()
