@@ -11,7 +11,7 @@ Each visualization shows flipper length on the X-axis and body mass on the Y-axi
 ---
 # Matplotlib (Python)
 Code: https://github.com/AmieHuynh2101/a2-DataVis-5ways/blob/main/matplotlib/plot.py
-<img width="2700" height="1800" alt="image" src="https://github.com/user-attachments/assets/e9637b28-e68a-40a0-8db6-58ff715926bb" />
+<img width="2700" height="1800" alt="image" src="https://github.com/user-attachments/assets/e733f619-ff2c-4386-9cfd-8b6f209e4048" />
 
 
 Matplotlib was one of the more straightforward tools because I could control the chart using Python code. It was easy to set the axis ranges, colors, and labels. However, I had to manually configure the legend and circle sizes. I think Matplotlib would be useful for data analysis and projects where I need more control over how a chart looks
