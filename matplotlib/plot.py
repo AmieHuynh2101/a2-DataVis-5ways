@@ -57,7 +57,7 @@ size_handles = [
 ]
 ax.legend(
   size_handles,
-  [f"{length} mm" for length in bill_lengths],
+  [f"{length}" for length in bill_lengths],
   title="Bill Length (mm)",
   loc="lower right"
 )
